@@ -14,5 +14,6 @@
 1. New Game: start a new game
 2. Draw Card: player can draw card
 3. Config: adjust the config settings to change the total number of card decks and rank limit
-## Original Assignment Instruction
+
+## How to Run
 Remember: your app will not run if you do not have two terminals open, one for running the API server (`server/`) and one for the Vue UI (`ui/`).
