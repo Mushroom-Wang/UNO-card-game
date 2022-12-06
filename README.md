@@ -1,4 +1,6 @@
 # UNO Card Game
+## Introduction
+This is a real-time multi-player UNO card game with TypeScript, Node.js, Vue.js, and Socket.io.
 
 ## Explanation of my UI
 ### Badges at the top of page
